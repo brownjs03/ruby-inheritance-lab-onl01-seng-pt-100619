@@ -24,4 +24,4 @@ steve.learn(knowledge_2)
 
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
 
-puts steve.knowldge
+puts steve.knowledge
