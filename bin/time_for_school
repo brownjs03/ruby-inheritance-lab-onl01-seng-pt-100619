@@ -17,10 +17,9 @@ some_knowledge = avi.teach
 
 steve.learn(some_knowledge)
 
+
+
+knowledge_2 = avi.teach 
+steve.learn(knowledge_2) 
+
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
-
-jim = User.new 
-jim.first_name = "Jim"
-jim.last_name = "Halpert"
-
-jim.learn(some_knowledge)
